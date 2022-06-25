@@ -1,0 +1,42 @@
+,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+0,Reação de drogas,Pare a irritação,Consulte o hospital mais próximo,Pare de tomar drogas.,Acompanhar
+1,Malária,Consulte o hospital mais próximo,Evite alimentos oleosos,Evite alimentos não vegetais,Mantenha os mosquitos fora
+2,Alergia,Aplique calamina,Área de cobertura com curativo,Nenhum,Use gelo para comprimir coceira
+3,Hipotiroidismo,Reduzir o estresse,Exercício,Coma saudável,Durma adequadamente
+4,Psoríase,Lave as mãos com água morna e sabão,Pare de sangrar usando pressão,Consultar médico,Banhos de sal
+5,Gerd,Evite alimentos apimentados gordurosos,Evite deitar-se depois de comer,Manter o peso saudável,Exercício
+6,Colestase crônica,Banhos frios,Medicina anti coceira,Consultar médico,Coma saudável
+7,Hepatite a,Consulte o hospital mais próximo,Lave as mãos através,Evite alimentos apimentados gordurosos,Medicação
+8,Osteoartrite,Paracetamol,Consulte o hospital mais próximo,Acompanhar,Banhos de sal
+9,(vertigem) vertigem posicional paromisal,Deitar,Evite mudanças bruscas no corpo,Evite movment de cabeça abrupta,Relaxar
+10,Hipoglicemia,Deite-se de lado,Verifique o pulso,Beba bebidas açucaradas,Consultar médico
+11,Acne,Banho duas vezes,Evite alimentos apimentados gordurosos,Beba muita água,Evite muitos produtos
+12,Diabetes,Ter dieta equilibrada,Exercício,Consultar médico,Acompanhar
+13,Impetigo,Mergulhe área afetada em água morna,Use antibióticos,Remova cicatrizes com pano comprimido molhado,Consultar médico
+14,Hipertensão,Meditação,Banhos de sal,Reduzir o estresse,Durma adequadamente
+15,Diseae da úlcera peptica,Evite alimentos apimentados gordurosos,Consumir alimentos probióticos,Elimine o leite,Limitar o álcool
+16,Hemorroidas dimórficas,Evite alimentos apimentados gordurosos,Consuma avelã de bruxa,Banho quente com sal de epsom,Consumir suco de alovera
+17,Constipação comum,Beba vitamina c bebidas ricas,Tome vapor,Evite alimentos frios,Mantenha a febre sob controle
+18,Catapora,Use neem no banho,Consumir folhas de neem,Tome a vacina,Evite locais públicos
+19,Espondilolose cervical,Use almofada de aquecimento ou pacote frio,Exercício,Tome otc pain reliver,Consultar médico
+20,Hipertiroidismo,Coma saudável,Massagem,Use bálsamo de limão,Tome tratamento radioativo de iodo
+21,Infecção do trato urinário,Beba muita água,Aumentar a ingestão de vitamina c,Beba suco de cranberry,Tome probióticos
+22,Varizes,Deite-se plana e levante a perna alta,Use oinments,Use compressão venosa,Não fique parado por muito tempo.
+23,SIDA,Evite cortes abertos,Use ppe se possível,Consultar médico,Acompanhar
+24,Paralisia (hemorragia cerebral),Massagem,Coma saudável,Exercício,Consultar médico
+25,Febre tifóide,Coma vegitables de alta caloria,Terapia antiboítica,Consultar médico,Medicação
+26,Hepatite B,Consulte o hospital mais próximo,Vacinação,Coma saudável,Medicação
+27,Infecção fúngica,Banho duas vezes,Use detol ou neem na água do banho,Mantenha a área infectada seca,Use panos limpos
+28,Hepatite c,Consulte o hospital mais próximo,Vacinação,Coma saudável,Medicação
+29,Enxaqueca,Meditação,Reduzir o estresse,Use óculos poloroid ao sol,Consultar médico
+30,Asma brônquica,Mude para cloothing solto,Respire fundo,Afaste-se do gatilho,Procure ajuda
+31,Hepatite alcoólica,Pare o consumo de álcool,Consultar médico,Medicação,Acompanhar
+32,Icterícia,Beba muita água,Consumir cardo de leite,Coma frutas e alimentos com alta fibra,Medicação
+33,Hepatite e,Pare o consumo de álcool,Descansar,Consultar médico,Medicação
+34,Dengue,Beba suco de folha de mamão,Evite alimentos apimentados gordurosos,Mantenha os mosquitos longe,Mantenha-se hidratado
+35,Hepatite D,Consultar médico,Medicação,Coma saudável,Acompanhar
+36,Enfarte,Chame a ambulância,Mastigar ou engolir asprin,Mantenha a calma,Nenhum
+37,Pneumonia,Consultar médico,Medicação,Descansar,Acompanhar
+38,Artrite,Exercício,Use terapia quente e fria,Tente acupuntura,Massagem
+39,Gastroenterite,Pare de comer alimentos sólidos por enquanto,Tente tomar pequenos goles de água,Descansar,Facilidade de volta para comer
+40,Tuberculose,Cobrir a boca,Consultar médico,Medicação,Descansar
