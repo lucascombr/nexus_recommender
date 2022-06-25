@@ -1,9 +1,9 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-streamlit=1.10.0=pypi_0
-pandas=1.2.4=py38hd77b12b_0
-numpy=1.19.5=pypi_0
-pickleshare=0.7.5=pyhd3eb1b0_1003
-cloudpickle=1.6.0=py_0
-pathos=0.2.9=pypi_0
+streamlit==1.10.0
+pandas==1.2.4
+numpy==1.19.5
+pickleshare==0.7.5
+cloudpickle==1.6.0
+pathos==0.2.9
