@@ -12,7 +12,7 @@ def ignore_warn(*args, **kwargs):
 warnings.warn = ignore_warn 
 
 # Define Pasta Arquivos
-os.chdir(os.path.dirname(__file__))
+os.chdir(os.path.dirname(os.path.realpath('__file__')))
 
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
