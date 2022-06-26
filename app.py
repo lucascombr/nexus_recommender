@@ -13,7 +13,7 @@ warnings.warn = ignore_warn
 
 # Define Pasta Arquivos
 os.chdir(os.path.dirname(os.path.realpath('__file__')))
-
+st.set_page_config(page_title='Nexus Recommender', page_icon = 'favicon.ico', layout = 'wide', initial_sidebar_state = 'auto')
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 
