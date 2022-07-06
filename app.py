@@ -13,7 +13,7 @@ warnings.warn = ignore_warn
 
 # Define Pasta Arquivos
 os.chdir(os.path.dirname(os.path.realpath('__file__')))
-st.set_page_config(page_title='Nexus Recommender', page_icon = 'favicon.ico')
+st.set_page_config(page_title='Nexus Recommender', page_icon = 'favicon.ico', initial_sidebar_state = 'auto')
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 
@@ -48,12 +48,12 @@ for x in (range(1,18)):
 nome = st.text_input('Qual seu nome?')
 if len(nome) == 0:
      st.write(f'<h1 style="color:#ff0000;font-size:13px;">{"Por favor, digite um nome."}</h1>', unsafe_allow_html=True)
-idade = st.text_input(f'Olá {nome} qual a sua idade?')
+idade = st.text_input(f'Olá {nome}, quantos anos você tem?')
 if len(idade) == 0:
      st.write(f'<h1 style="color:#ff0000;font-size:13px;">{"Por favor, digite uma idade."}</h1>', unsafe_allow_html=True)
 sex = st.radio(
      "Qual o seu sexo?",
-     ('Male', 'Female'))
+     ('Masculino', 'Feminino'))
 
 st.subheader("Sintomas")
 
@@ -69,7 +69,7 @@ for x in sintomas:
         if x == y:
             sintomas_list.append(z)
 sintomas = sintomas_list
-
+sintomas.sort()
 sintomas_choica = st.multiselect(
     "Seleciona os sintomas:", sintomas)
 
@@ -90,7 +90,7 @@ if len(nome)!= 0 and len (idade) !=0 and len(sintomas_choica) ==3:
             sintomas_choica[0] = sintomas_choica_list
             sintomas_choica = pd.pivot_table(sintomas_choica, columns = df.columns[2:-1], aggfunc='first')
             #sintomas_choica['idade']= (idade)
-            if sex == 'Male':
+            if sex == 'Masculino':
                 sintomas_choica['sex']= 1
             else:
                 sintomas_choica['sex']= 0
@@ -121,4 +121,3 @@ if len(nome)!= 0 and len (idade) !=0 and len(sintomas_choica) ==3:
         st.write('Clique em Recomendar Tratamento')
 else:
     st.write('Verifique os campos em vermelho')
-
