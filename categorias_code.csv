@@ -6,7 +6,7 @@ Categorias_code,Categorias_nome,Traducao
 4,Allergy,Alergia
 5,Arthritis,Artrite
 6,Bronchial Asthma,Asma brônquica
-7,Cervical spondylosis,Espondilolose cervical
+7,Cervical spondylosis,Espondilose cervical
 8,Chicken pox,Catapora
 9,Chronic cholestasis,Colestase crônica
 10,Common Cold,Constipação comum
@@ -32,7 +32,7 @@ Categorias_code,Categorias_nome,Traducao
 30,Migraine,Enxaqueca
 31,Osteoarthristis,Osteoartrite
 32,Paralysis (brain hemorrhage),Paralisia (hemorragia cerebral)
-33,Peptic ulcer diseae,Diseae da úlcera peptica
+33,Peptic ulcer diseae,Úlcera péptica
 34,Pneumonia,Pneumonia
 35,Psoriasis,Psoríase
 36,Tuberculosis,Tuberculose
@@ -41,7 +41,7 @@ Categorias_code,Categorias_nome,Traducao
 39,Varicose veins,Varizes
 40,abdominal_pain,Dor abdominal
 41,acidity,Acidez
-42,altered_sensorium,Sensorium alterado
+42,altered_sensorium,Percepção alterada
 43,anxiety,Ansiedade
 44,back_pain,Dor nas costas
 45,blackheads,Cravos
@@ -106,7 +106,7 @@ Categorias_code,Categorias_nome,Traducao
 104,swelling_joints,Articulações inchantes
 105,swelling_of_stomach,Inchaço do estômago
 106,ulcers_on_tongue,Úlceras na língua
-107,vomiting,Vómito
+107,vomiting,Vômito
 108,watering_from_eyes,Regando dos olhos
 109,weakness_in_limbs,Fraqueza nos membros
 110,weakness_of_one_body_side,Fraqueza de um lado do corpo
